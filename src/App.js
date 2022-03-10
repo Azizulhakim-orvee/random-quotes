@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Don't Learn React
+          Don't Learn React Instead learn NextJs
         </a>
       </header>
     </div>
