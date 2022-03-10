@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Don't Learn React, Learn CSS first then javascript and then React.
+          Don't Learn React Instead learn NextJs
         </a>
       </header>
     </div>
