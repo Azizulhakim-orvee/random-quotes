@@ -15,8 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Don't Learn React, Learn CSS first then javascript and then React.
-          Don't Learn React Instead learn NextJs
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit voluptatem cupiditate odio ipsa aliquid, quo nesciunt voluptas voluptatibus minima. Doloribus?
         </a>
       </header>
     </div>
