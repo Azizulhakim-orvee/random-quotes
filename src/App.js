@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Don't Learn React
+          Don't Learn React, Learn CSS first then javascript and then React.
         </a>
       </header>
     </div>
